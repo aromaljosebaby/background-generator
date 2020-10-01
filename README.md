@@ -1,6 +1,6 @@
 # background-generator
 
-A program to choose exotic backgrounds to crate ur own exciting websites.
+A program to choose exotic backgrounds to create your own exciting websites.
 
 Have fun coding :)
 
